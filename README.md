@@ -1,0 +1,3 @@
+# captcha-solver
+
+Generated automatically.
