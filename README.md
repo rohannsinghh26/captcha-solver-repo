@@ -1,3 +1,3 @@
 # captcha-solver
 
-Generated automatically.
+Updated automatically.
